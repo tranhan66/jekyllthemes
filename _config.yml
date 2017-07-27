@@ -1,6 +1,6 @@
 name: Jekyll Themes
 description: A directory of the best-looking themes for Jekyll blogs
-url: 'tranhan66.github.io'
+url: 'https://tranhan66.github.io'
 baseurl: ''
 github: 'https://github.com/jekyllrc/jekyllthemes'
 permalink: /:title/
